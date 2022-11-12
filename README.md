@@ -1,4 +1,4 @@
-# React JS Ecommerce with Laravel 8
+# React JS with Laravel 8
 ### Check the Laravel 8 API in another branch.
 
 # Getting Started with Create React App
@@ -8,6 +8,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+
+## Install npm modules
+
+In the project directory, you can run: npm install
+
 
 ### `npm start`
 
