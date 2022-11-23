@@ -125,7 +125,7 @@ function AddUser() {
 									</div>
 
 									<div className='form-group mt-3'>
-										<button type='submit' className='btn-sm btn btn-primary'>Login</button>
+										<button type='submit' className='btn-sm btn btn-primary'>Save</button>
 										| <Link to="/" className='btn-sm btn btn-primary'>Back</Link>
 									</div>
 								</form>
